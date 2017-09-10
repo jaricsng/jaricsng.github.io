@@ -59,8 +59,7 @@ layout: compress
                         <i class="card__btn-close fa fa-times"></i>
                         <div class="card__caption">
                             <h2 class="card__title">{{ post.title }}</h2>
-                            <p class="card__subtitle">{{ post.subtitle }}</p>
-                            <p class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</p>
+                            <p class="card__subtitle">{{ post.subtitle }}<span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span></p>
                         </div>
                         <div class="card__copy">
                             <div class="meta">
