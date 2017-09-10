@@ -1,7 +1,7 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "Setup Jekyll on GitHub"
-author: "Wferr"
+title:  "Setup Jekyll in GitHub"
+subtitle: "Exploring Jekyll"
+author: "Jaric Sng"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
 date:   2017-09-10 17:00:00
