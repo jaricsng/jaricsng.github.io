@@ -1,11 +1,15 @@
 ---
-title:  "Setup Jekyll in GitHub"
-subtitle: "Exploring Jekyll"
+title:  "A Craftsman Workshop"
+subtitle: "It's always a bit messy"
 author: "Jaric Sng"
 avatar: "img/authors/wferr.png"
+image: "img/f.jpg"
 date:   2017-09-10
 ---
-# Customizing GitHub Pages
+# Setup Jekyll in GitHub
+Exploring Jekyll
+
+## Customizing GitHub Pages
 
 [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/)
 
